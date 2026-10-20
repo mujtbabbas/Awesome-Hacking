@@ -6,6 +6,20 @@
 
 Your [contributions](contributing.md) are always welcome !
 
+## About This Standalone Edition
+
+- **Main repository:** [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- **Based on version:** upstream commit `b2bb13aa69b4f568a1bab0cbb17b7a00a350dc36` (snapshotted 2026-10-20; upstream HEAD dated 2026-07-26)
+- **This edition:** v1.1.0 (v1.0.0 = clean baseline of the upstream version above)
+- **What was done:** Converted from a fork into a standalone repository (fresh history, baseline commit), then enhanced in place by Syed Mujtaba Abbas.
+- **Enhancements in this edition (v1.1.0):**
+  - This About section, with full upstream credit and version provenance
+  - `ENHANCEMENTS.md` — per-version changelog of everything changed in this edition
+  - `.github/dependabot.yml` — weekly GitHub Actions dependency updates
+  - `.markdownlint.json` + `.github/workflows/markdown-check.yml` — markdown linting automation for contributions (upstream lock-threads workflow kept as-is)
+  - `.editorconfig` — standard editor settings (UTF-8, LF, 2-space indent)
+- **Credit & licence:** All original work belongs to Hack-with-Github and the upstream contributors. Licence is preserved unchanged — see `LICENSE` (CC0-1.0). This edition adds the enhancements listed above only.
+
 ## Awesome Repositories
 
 Repository | Description
